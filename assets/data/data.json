@@ -1,0 +1,16 @@
+{
+    "kuliners": [
+        {
+            "nama": "Ceker Seblak Mak Epoy",
+            "description": "Lorem ipsum",
+            "operasional":"16.00 - 23.00",
+            "latlng":[-6.0330975,106.0646542]
+        },
+        {
+            "nama": "Bakso Bambang Cilegon",
+            "description": "Lorem ipsum",
+            "operasional":"10.30 - 20.00",
+            "latlng":[-5.9908697,106.0464408]
+        }
+    ]
+}
